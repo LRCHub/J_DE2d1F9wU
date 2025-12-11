@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "忘れてください",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-11T02:26:07.217546Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "忘れてください",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_忘れてください_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "忘れてください",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_忘れてください_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "忘れてください - Forget it",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/03_忘れてください_-_Forget_it_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "忘れてください",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/04_忘れてください_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "忘れてください / Forget it",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_忘れてください___Forget_it_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "忘れてください (Paused)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/06_忘れてください_(Paused)_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "忘れてください",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/07_忘れてください_ヨルシカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "忘れてください",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_忘れてください_ヨルシカ.txt"
+    }
+  ]
+}
