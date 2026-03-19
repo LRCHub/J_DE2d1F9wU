@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "忘れてください",
   "base_artist": "ヨルシカ",
-  "createdAt": "2025-12-11T02:26:07.217546Z",
+  "createdAt": "2026-03-19T03:38:13.201371Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -61,12 +61,55 @@
       "path": "select/07_忘れてください_ヨルシカ.lrc"
     },
     {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "忘れてください",
+      "artist": "Yorushika",
+      "has_synced": false,
+      "path": "select/08_忘れてください_Yorushika.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "忘れてください",
+      "artist": "YORUSHIKA",
+      "has_synced": false,
+      "path": "select/09_忘れてください_YORUSHIKA.txt"
+    },
+    {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
       "title": "忘れてください",
       "artist": "ヨルシカ",
       "has_synced": false,
       "path": "select/pl_01_忘れてください_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "忘れてください",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_忘れてください_ヨルシカ.lrc",
+      "repo_name": "5qtGlNdENa0"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "忘れてください",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_02_忘れてください_ヨルシカ.lrc",
+      "repo_name": "J_DE2d1F9wU"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "忘れてください",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_03_忘れてください_ヨルシカ.lrc",
+      "repo_name": "RtmE8MqZz2I"
     }
   ]
 }
